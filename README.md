@@ -2,7 +2,7 @@
 
 Inspired by Fast.ai Mooc
 
-## MNIST
+## MNIST Keras Way
 
 I have approached different models from simple Linear model to CNN to reach accuracy of 99.7%. Hope this useful !
 
